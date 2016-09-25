@@ -1,0 +1,20 @@
+{
+  "name": "meantodos",
+  "description": "Simple todos app",
+  "main": "\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Cserver.js",
+  "authors": [
+    "Midas"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
